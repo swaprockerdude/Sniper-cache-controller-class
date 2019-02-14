@@ -1,4 +1,4 @@
-# Sniper-cache-controller-class
+# Sniper-cache-controller-class-C++
 Defines classes and methods to control access to multiple levels of cache memory in a multi-core computing system.
 
 Header file:-
